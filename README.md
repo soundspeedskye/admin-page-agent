@@ -58,8 +58,6 @@ repo-root/
 
 ---
 
-# English Translation
-
 # Web Admin Page Agent Kit
 
 This is a bundle of agent instructions for generating React-based admin web apps. The final output should not be a simple skeleton; it should be a runnable baseline app that users can execute and later refine in detail.
@@ -119,8 +117,6 @@ At first, `resource-manifest.md` serves as the resource seed. After `workflow/03
 - Sign-in, sign-up when enabled, sign-out, and private-route guard must work by default.
 
 ---
-
-# Chinese Translation
 
 # Web Admin Page Agent Kit
 
